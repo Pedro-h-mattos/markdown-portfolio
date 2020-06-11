@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Pedro Mattos:\
+A __dedicated__ worker\
+An **avid** *reader*\
+A _well established_ smartypants\
+A high level __*dungeon master*__
