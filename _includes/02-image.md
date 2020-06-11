@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Destiny Background](https://www.destructoid.com/ul/312285-DDD.jpg)
